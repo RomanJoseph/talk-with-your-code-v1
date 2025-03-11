@@ -1,0 +1,5 @@
+chroma
+codebase
+venv
+.env
+**/__pycache__/

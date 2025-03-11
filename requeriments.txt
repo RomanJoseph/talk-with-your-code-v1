@@ -1,0 +1,12 @@
+langchain
+chromadb
+huggingface_hub
+langchain-deepseek
+langchain-community
+sentence-transformers
+unstructured
+langchain-huggingface
+langchain-chroma
+load-dotenv
+unstructured[csv]
+langchain-huggingface
